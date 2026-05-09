@@ -5,6 +5,6 @@
 
 Стек технологий
 1) Python
-2) Pandas / NumPy** (обработка, очистка данных и Feature Engineering)
-3) Scikit-learn** (построение модели машинного обучения)
+2) Pandas / NumPy (обработка, очистка данных и Feature Engineering)
+3) Scikit-learn (построение модели машинного обучения)
 4) Seaborn / Matplotlib** (визуализация данных, матрица ошибок)
