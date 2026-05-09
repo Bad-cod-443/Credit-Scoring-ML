@@ -7,4 +7,4 @@
 1) Python
 2) Pandas / NumPy (обработка, очистка данных и Feature Engineering)
 3) Scikit-learn (построение модели машинного обучения)
-4) Seaborn / Matplotlib** (визуализация данных, матрица ошибок)
+4) Seaborn / Matplotlib (визуализация данных, матрица ошибок)
